@@ -1,7 +1,3 @@
 .ec-cart-step__section>.ec-radiogroup__items-inner>label:nth-child(7) {
     display: none;
 }
-
-html#ecwid_html body#ecwid_body .ec-size .ec-store .ec-radiogroup__item+.ec-radiogroup__item {
-    display:none; 
-}
