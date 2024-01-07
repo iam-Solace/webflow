@@ -1,4 +1,4 @@
-.ec-cart-step__section .ec-radiogroup__item:nth-last-child(2) {
+.ec-cart-step__section>.ec-radiogroup__item:nth-last-child(2) {
     display: none;
     
 }
