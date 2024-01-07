@@ -1,3 +1,6 @@
-.ec-cart-step__section>.ec-radiogroup__items-inner>label:nth-child(7) {
-    display: none;
+
+@media screen and (min-width: 992px) {
+    .sidebar-content {
+        height: calc(100vh - 7rem);
+    }
 }
