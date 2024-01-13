@@ -37,4 +37,3 @@ $(".swiper-slide").click(function () {
   const index = $(this).index();
   $(".swiper-pagination-bullet").eq(index).click();
 });
-alert("test");
